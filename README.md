@@ -2,7 +2,7 @@
 A curated list of resources for SQA/SET role.
 
 Contents
-Blogs
+Blogs 
 Courses
 GitHub Repositories
 Roadmap
